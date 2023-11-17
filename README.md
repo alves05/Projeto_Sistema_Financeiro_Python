@@ -2,4 +2,4 @@
 
 ## Fluxo de Lógica do Programa easyFinance
 
-![Fluxo logica](/outros/logica_programa.jpg)
+![Fluxo logica](/outros/logica_programa.jpg) 
