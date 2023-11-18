@@ -2,4 +2,4 @@
 
 ## Fluxo de Lógica do Programa Control Finance
 
-![Fluxo logica](/outros/logica_programa.jpg) 
+![Fluxo logica](/outros/logica_contro_lfinance.jpg) 
