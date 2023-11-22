@@ -1,0 +1,8 @@
+ID_lancamento;dia;mes;ano;tipo;valor;historico;taxa;montante;rendimento
+95;10;11;2023;receita;133.0;servicos;;;
+96;11;11;2023;investimento;100.0;poupanca;0.0005;100.55;0.55
+97;12;11;2023;investimento;100.0;poupanca;0.0005;100.5;0.5
+98;14;11;2023;receita;125.0;servicos;;;
+99;16;11;2023;receita;926.0;vendas;;;
+100;18;11;2023;despesa;-219.0;agua e esgoto;;;
+101;22;11;2023;receita;25.0;teste 1;;;

@@ -1,0 +1,101 @@
+ID_lancamento;dia;mes;ano;tipo;valor;historico;taxa;montante;rendimento
+1;2;1;2023;investimento;100.0;poupanca;0.0005;117.58;17.58
+2;6;1;2023;receita;409.0;servicos;;;
+3;13;1;2023;despesa;-268.0;despesa geral;;;
+4;13;1;2023;despesa;-776.0;agua e esgoto;;;
+5;14;1;2023;investimento;100.0;poupanca;0.0005;116.88;16.88
+6;15;1;2023;receita;896.0;servicos;;;
+7;18;1;2023;receita;280.0;vendas;;;
+8;18;1;2023;despesa;-591.0;energia;;;
+9;26;1;2023;despesa;-891.0;energia;;;
+10;28;1;2023;despesa;-455.0;internet;;;
+11;30;1;2023;investimento;100.0;poupanca;0.0005;115.95;15.95
+12;1;2;2023;receita;545.0;vendas;;;
+13;7;2;2023;receita;329.0;servicos;;;
+14;13;2;2023;investimento;100.0;poupanca;0.0005;115.14;15.14
+15;21;2;2023;despesa;-657.0;agua e esgoto;;;
+16;22;2;2023;despesa;-829.0;internet;;;
+17;23;2;2023;receita;144.0;servicos;;;
+18;28;2;2023;receita;439.0;vendas;;;
+19;28;2;2023;investimento;100.0;poupanca;0.0005;114.28;14.28
+20;2;3;2023;despesa;-348.0;internet;;;
+21;4;3;2023;receita;181.0;vendas;;;
+22;6;3;2023;despesa;-368.0;energia;;;
+23;9;3;2023;receita;558.0;vendas;;;
+24;16;3;2023;investimento;100.0;poupanca;0.0005;113.37;13.37
+25;17;3;2023;despesa;-696.0;despesa geral;;;
+26;22;3;2023;despesa;-262.0;agua e esgoto;;;
+27;29;3;2023;despesa;-499.0;energia;;;
+28;2;4;2023;despesa;-990.0;internet;;;
+29;3;4;2023;investimento;100.0;poupanca;0.0005;112.35;12.35
+30;3;4;2023;despesa;-789.0;despesa geral;;;
+31;4;4;2023;despesa;-347.0;despesa geral;;;
+32;8;4;2023;receita;853.0;servicos;;;
+33;12;4;2023;investimento;100.0;poupanca;0.0005;111.85;11.85
+34;18;4;2023;despesa;-632.0;agua e esgoto;;;
+35;21;4;2023;investimento;100.0;poupanca;0.0005;111.35;11.35
+36;27;4;2023;despesa;-716.0;internet;;;
+37;28;4;2023;receita;611.0;servicos;;;
+38;28;4;2023;despesa;-164.0;energia;;;
+39;3;5;2023;receita;270.0;vendas;;;
+40;7;5;2023;despesa;-601.0;agua e esgoto;;;
+41;8;5;2023;investimento;100.0;poupanca;0.0005;110.4;10.4
+42;16;5;2023;despesa;-510.0;despesa geral;;;
+43;18;5;2023;receita;239.0;servicos;;;
+44;21;5;2023;investimento;100.0;poupanca;0.0005;109.69;9.69
+45;21;5;2023;receita;654.0;servicos;;;
+46;23;5;2023;receita;698.0;vendas;;;
+47;26;5;2023;receita;457.0;vendas;;;
+48;26;5;2023;receita;651.0;servicos;;;
+49;29;5;2023;despesa;-497.0;energia;;;
+50;30;5;2023;investimento;100.0;poupanca;0.0005;109.2;9.2
+51;10;6;2023;despesa;-818.0;energia;;;
+52;10;6;2023;receita;269.0;servicos;;;
+53;13;6;2023;despesa;-672.0;internet;;;
+54;13;6;2023;investimento;100.0;poupanca;0.0005;108.43;8.43
+55;16;6;2023;investimento;100.0;poupanca;0.0005;108.27;8.27
+56;18;6;2023;despesa;-525.0;internet;;;
+57;19;6;2023;despesa;-948.0;despesa geral;;;
+58;20;6;2023;despesa;-136.0;despesa geral;;;
+59;21;6;2023;receita;992.0;vendas;;;
+60;25;6;2023;investimento;100.0;poupanca;0.0005;107.79;7.79
+61;27;6;2023;investimento;100.0;poupanca;0.0005;107.68;7.68
+62;27;6;2023;despesa;-648.0;internet;;;
+63;29;6;2023;investimento;100.0;poupanca;0.0005;107.57;7.57
+64;2;7;2023;receita;151.0;servicos;;;
+65;7;7;2023;receita;458.0;servicos;;;
+66;10;7;2023;despesa;-194.0;despesa geral;;;
+67;10;7;2023;receita;255.0;servicos;;;
+68;12;7;2023;receita;211.0;servicos;;;
+69;14;7;2023;receita;722.0;servicos;;;
+70;22;7;2023;despesa;-564.0;internet;;;
+71;27;7;2023;despesa;-953.0;internet;;;
+72;28;7;2023;investimento;100.0;poupanca;0.0005;106.02;6.02
+73;2;8;2023;investimento;100.0;poupanca;0.0005;105.76;5.76
+74;9;8;2023;receita;569.0;servicos;;;
+75;10;8;2023;investimento;100.0;poupanca;0.0005;105.34;5.34
+76;13;8;2023;receita;893.0;servicos;;;
+77;15;8;2023;receita;613.0;servicos;;;
+78;16;8;2023;despesa;-557.0;despesa geral;;;
+79;22;8;2023;investimento;100.0;poupanca;0.0005;104.71;4.71
+80;23;8;2023;despesa;-843.0;despesa geral;;;
+81;24;8;2023;investimento;100.0;poupanca;0.0005;104.6;4.6
+82;27;8;2023;receita;907.0;vendas;;;
+83;11;9;2023;receita;814.0;servicos;;;
+84;11;9;2023;receita;569.0;servicos;;;
+85;13;9;2023;despesa;-533.0;agua e esgoto;;;
+86;15;9;2023;receita;436.0;servicos;;;
+87;16;9;2023;receita;765.0;vendas;;;
+88;20;9;2023;despesa;-632.0;internet;;;
+89;24;9;2023;despesa;-635.0;energia;;;
+90;17;10;2023;despesa;-257.0;internet;;;
+91;26;10;2023;despesa;-857.0;internet;;;
+92;27;10;2023;receita;343.0;vendas;;;
+93;28;10;2023;investimento;100.0;poupanca;0.0005;101.26;1.26
+94;29;10;2023;despesa;-733.0;despesa geral;;;
+95;10;11;2023;receita;133.0;servicos;;;
+96;11;11;2023;investimento;100.0;poupanca;0.0005;100.55;0.55
+97;12;11;2023;investimento;100.0;poupanca;0.0005;100.5;0.5
+98;14;11;2023;receita;125.0;servicos;;;
+99;16;11;2023;receita;926.0;vendas;;;
+100;18;11;2023;despesa;-219.0;agua e esgoto;;;
