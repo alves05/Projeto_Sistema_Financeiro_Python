@@ -23,10 +23,10 @@ Os registros devem possuir a data em que foram realizados, o tipo de movimentaç
 
 	M=C∗(1+i)***t* em que:
 	
-	**M** é o Montante
-	**C** é o Capital
-	**i** é a Taxa do investimento
-	**t** é o Tempo
+	**M** é o Montante  
+	**C** é o Capital  
+	**i** é a Taxa do investimento  
+	**t** é o Tempo  
 
 ### 2. Ler registros
 
@@ -41,15 +41,15 @@ No caso de atualização, pode-se atualizar o valor, o tipo e a data deverá ser
 Deverá ser possível deletar o registro.
 
 ##### Módulos e bibliotecas utilizados
-[csv](https://docs.python.org/3/library/csv.html)
-[datetime](https://docs.python.org/3/library/datetime.html)
-[os](https://docs.python.org/3/library/os.html)
-[random](https://docs.python.org/3/library/random.html)
+[csv](https://docs.python.org/3/library/csv.html)  
+[datetime](https://docs.python.org/3/library/datetime.html)  
+[os](https://docs.python.org/3/library/os.html)  
+[random](https://docs.python.org/3/library/random.html)  
 
 ##### Membros do grupo:
-[Augusto Messias](https://github.com/mineironovale)
-[Humberto Tiggemann](https://github.com/HumbertoTiggemann)
-[Tamires Souza](https://github.com/tamiresouza)
-[Wiliams Alves](https://github.com/alves05)
+[Augusto Messias](https://github.com/mineironovale)  
+[Humberto Tiggemann](https://github.com/HumbertoTiggemann)  
+[Tamires Souza](https://github.com/tamiresouza)  
+[Wiliams Alves](https://github.com/alves05)  
 
 ![Fluxo logica](/outros/logica_contro_lfinance.jpg) 
