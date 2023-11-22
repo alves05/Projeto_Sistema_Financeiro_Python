@@ -21,6 +21,9 @@ Desenvolver um sistema para controle financeiro que receba as movimentações e 
 |3.|Outros Arquivos|[outros](./outros/)|
 |4.|License|[license](./LICENSE)|
 
+## Aplicação
+[![sistema](./outros/sistema.jpg)](./codigo/control_finance.py)
+
 ## Contextualização:
 
 O controle financeiro é uma parte crucial da gestão de recursos de qualquer negócio ou indivíduo. Este projeto visa fornecer uma solução eficaz para o gerenciamento de transações financeiras, permitindo ao usuário Criar, Ler, Atualizar, Extrair e Deletar registros de entradas, saídas e saldo corrente de investimentos realizados.
