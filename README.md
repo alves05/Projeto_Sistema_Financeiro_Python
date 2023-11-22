@@ -29,7 +29,7 @@ O controle financeiro é uma parte crucial da gestão de recursos de qualquer ne
 
 O sistema proposto será capaz de realizar as seguintes operações:
 
-### 1. Criar novos registros
+### 1. Criar Novos Registros
 
 Os registros devem possuir a data em que foram realizados, o tipo de movimentação e valor. Os tipos podem ser despesas, receita ou investimento:
 
@@ -44,15 +44,19 @@ Os registros devem possuir a data em que foram realizados, o tipo de movimentaç
 	**i** é a Taxa do investimento  
 	**t** é o Tempo  
 
-### 2. Ler registros
+### 2. Ler Registros
 
 O sistema deverá consultar os registros por data, tipo, valor, histórico e id de lançamento.
 
-### 3. Atualizar registros
+### 3. Gerar Relatórios
+
+O sistema deverá ser ser capaz de gerar relatórios e exportar.
+
+### 4. Atualizar Registros
 
 Os registros serão atualizados pelo id de lançamento, sendo possivel atualizar o tipo de lançamento, o valor e o histórico, nos casos de atualização de investimento deverá informar támbem a taxa de juros diário.
 
-### 4. Deletar registros
+### 5. Deletar Registros
 
 Deverá ser possível deletar o registro usando o id do lançamento.
 
