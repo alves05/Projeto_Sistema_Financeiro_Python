@@ -82,18 +82,16 @@ Deverá ser possível deletar o registro usando o id do lançamento.
 
 O nome do sistema é "CONTROL FINANCE", sistema para controle e gestão financeira.
 
-## Tarefas Realizadas:
+## Tarefas que a Aplicação Consegue Realizar:
 
-- [x] Inserir novos registros receita, despesa, investimento.
-- [x] Consultar registro por data, tipo ou valor.
-- [x] Atualizar registro.
-- [x] Deletar registro.
-- [x] Atualizar os rendimentos diários.
-- [x] Crie uma função exportar_relatorio, que seja possível exportar um relatorio final em csv ou json.
-- [x] Crie pelo menos uma função de agrupamento, que seja capaz de mostrar o total de valor baseado em alguma informação (mes, tipo...).
-- [x] Crie valores separados para identificar a data (dia, mes, ano).
-- [x] Nomear a aplicação
-
+- [x] Inserir novos registros com tipo receita, despesa, investimento.
+- [x] Consultar registro por data, tipo, valor, hitórico e ids.
+- [x] Atualizar registro por id.
+- [x] Deletar registro por id.
+- [x] Atualizar os rendimentos diários de forma automatica todos os dias.
+- [x] Exportar relatorio em formato csv.
+- [x] Agrupa os toais dos registros por tipo, mês e histórico.
+- [x] Data na base de dados separada por colunas dia, mês e ano.
 
 ## Funções da Aplicação:
 
